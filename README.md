@@ -1,8 +1,11 @@
 # spicetify community themes
 
-This is a collection of themes for [spicetify](https://github.com/spicetify/spicetify-cli), a command-line tool to customize Spotify.
+This is a collection of themes for [spicetify](https://github.com/spicetify/spicetify-cli), a command-line tool to customize Spotify. 
 
-You can add your own theme simply by opening a Pull Request (more info in [CONTRIBUTING.md](./CONTRIBUTING.md)).
+# This fork contains an alternate darker dracula color scheme for the dribbblish theme. 
+![Capture3](https://user-images.githubusercontent.com/49210226/178388322-6f095a14-a331-4d53-8cd9-cf946e2177c0.PNG)
+![Capture4](https://user-images.githubusercontent.com/49210226/178388513-4ddf9488-ee3d-422a-90c4-f86b6f4ee233.PNG)
+
 
 ### **You can find a preview of all the themes in [THEMES.md](./THEMES.md).**
 
